@@ -42,9 +42,9 @@ Explanation: 7/-3 = -2.33333.. which is truncated to -2.
 ## Solution
 
 **Language:** Java  
-**Runtime:** 1 ms (beats 97.44%)  
-**Memory:** 42.9 MB (beats 14.53%)  
-**Submitted:** 2026-09-12T16:40:26.614Z  
+**Runtime:** 0 ms  
+**Memory:** 42.2 MB  
+**Submitted:** 2026-09-12T16:40:21.448Z  
 
 ```java
 class Solution {
