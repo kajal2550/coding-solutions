@@ -46,9 +46,9 @@ The grid contains six islands, each with a total value that is divisible by 3.
 ## Solution
 
 **Language:** Java  
-**Runtime:** 21 ms (beats 66.67%)  
-**Memory:** 114.8 MB (beats 52.94%)  
-**Submitted:** 2026-10-26T03:05:03.553Z  
+**Runtime:** 25 ms (beats 37.65%)  
+**Memory:** 115.4 MB (beats 46.66%)  
+**Submitted:** 2026-10-26T03:05:17.437Z  
 
 ```java
 class Solution {
